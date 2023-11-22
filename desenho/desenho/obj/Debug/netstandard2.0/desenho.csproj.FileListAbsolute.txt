@@ -1,0 +1,15 @@
+C:\Users\Pichau\source\repos\desenho\desenho\desenho\bin\Debug\netstandard2.0\desenho.deps.json
+C:\Users\Pichau\source\repos\desenho\desenho\desenho\bin\Debug\netstandard2.0\desenho.dll
+C:\Users\Pichau\source\repos\desenho\desenho\desenho\bin\Debug\netstandard2.0\ref\desenho.dll
+C:\Users\Pichau\source\repos\desenho\desenho\desenho\bin\Debug\netstandard2.0\desenho.pdb
+C:\Users\Pichau\source\repos\desenho\desenho\desenho\obj\Debug\netstandard2.0\desenho.csproj.AssemblyReference.cache
+C:\Users\Pichau\source\repos\desenho\desenho\desenho\obj\Debug\netstandard2.0\desenho.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pichau\source\repos\desenho\desenho\desenho\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Pichau\source\repos\desenho\desenho\desenho\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Pichau\source\repos\desenho\desenho\desenho\obj\Debug\netstandard2.0\desenho.AssemblyInfoInputs.cache
+C:\Users\Pichau\source\repos\desenho\desenho\desenho\obj\Debug\netstandard2.0\desenho.AssemblyInfo.cs
+C:\Users\Pichau\source\repos\desenho\desenho\desenho\obj\Debug\netstandard2.0\desenho.csproj.CoreCompileInputs.cache
+C:\Users\Pichau\source\repos\desenho\desenho\desenho\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Pichau\source\repos\desenho\desenho\desenho\obj\Debug\netstandard2.0\desenho.dll
+C:\Users\Pichau\source\repos\desenho\desenho\desenho\obj\Debug\netstandard2.0\refint\desenho.dll
+C:\Users\Pichau\source\repos\desenho\desenho\desenho\obj\Debug\netstandard2.0\desenho.pdb

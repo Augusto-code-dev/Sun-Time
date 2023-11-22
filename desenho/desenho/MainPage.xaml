@@ -1,0 +1,109 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="desenho.MainPage">
+
+    <StackLayout BackgroundColor="#2F4E9F" LayoutChanged="StackLayout_LayoutChanged">
+
+        <Button Text="Cidade" x:Name="cidade" TextColor="White" FontSize="35" Clicked="TrocaCid" BackgroundColor="Transparent" Margin="80,0,80,0" FontAttributes="Bold"/>
+
+        <Label Text="00{\u00B0" x:Name="temp" TextColor="White" FontSize="120" Padding="0" Margin="35,-25,0,0" HorizontalTextAlignment="Center"/>
+
+        <Label Margin="10,0,0,0" TextColor="White">
+            <Label.FormattedText>
+                <FormattedString>
+                    <FormattedString.Spans> 
+                        <Span Text="Máxima: " FontAttributes="Bold" FontSize="30"/>
+                        <Span Text="00" x:Name="tempmax" FontSize="30" FontAttributes="Bold"/>
+                    </FormattedString.Spans>
+                </FormattedString>
+            </Label.FormattedText>
+        </Label>
+
+        <Label Margin="220,-46,0,0" TextColor="White">
+            <Label.FormattedText>
+                <FormattedString>
+                    <FormattedString.Spans>
+                        <Span Text="Minima: " FontAttributes="Bold" FontSize="30"/>
+                        <Span Text="00" x:Name="tempmin" FontSize="30" FontAttributes="Bold"/>
+                    </FormattedString.Spans>
+                </FormattedString>
+            </Label.FormattedText>
+        </Label>
+
+        
+        <Grid BackgroundColor="#273B70" Margin="20,25,20,0" HeightRequest="485" >
+            <Label Margin="20,15,0,0" TextColor="White">
+                <Label.FormattedText>
+                    <FormattedString>
+                        <FormattedString.Spans>
+                            <Span Text="00/00       " x:Name="dia1"  FontAttributes="Bold" FontSize="35"/>
+                            <Span Text="00         " x:Name="dia1min"  FontSize="35" FontAttributes="Bold"/>
+                            <Span Text="00" x:Name="dia1max" FontSize="35" FontAttributes="Bold"/>
+                        </FormattedString.Spans>
+                    </FormattedString>
+                </Label.FormattedText>
+            </Label>
+            <Label Margin="20,100,0,0" TextColor="White">
+                <Label.FormattedText>
+                    <FormattedString>
+                        <FormattedString.Spans>
+                            <Span Text="00/00       " x:Name="dia2" FontAttributes="Bold" FontSize="35"/>
+                            <Span Text="00         " x:Name="dia2min" FontSize="35" FontAttributes="Bold"/>
+                            <Span Text="00" x:Name="dia2max" FontSize="35" FontAttributes="Bold"/>
+                        </FormattedString.Spans>
+                    </FormattedString>
+                </Label.FormattedText>
+            </Label>
+            <Label Margin="20,180,0,0" TextColor="White">
+            <Label.FormattedText>
+                <FormattedString>
+                    <FormattedString.Spans>
+                            <Span Text="00/00       " x:Name="dia3" FontAttributes="Bold" FontSize="35"/>
+                            <Span Text="00         " x:Name="dia3min" FontSize="35" FontAttributes="Bold"/>
+                            <Span Text="00" x:Name="dia3max" FontSize="35" FontAttributes="Bold"/>
+                    </FormattedString.Spans>
+                </FormattedString>
+            </Label.FormattedText>
+            </Label>
+            <Label Margin="20,260,0,0" TextColor="White">
+                <Label.FormattedText>
+                    <FormattedString>
+                        <FormattedString.Spans>
+                            <Span Text="00/00       " x:Name="dia4" FontAttributes="Bold" FontSize="35"/>
+                            <Span Text="00         " x:Name="dia4min" FontSize="35" FontAttributes="Bold"/>
+                            <Span Text="00" x:Name="dia4max" FontSize="35" FontAttributes="Bold"/>
+                        </FormattedString.Spans>
+                    </FormattedString>
+                </Label.FormattedText>
+            </Label>
+            <Label Margin="20,340,0,0" TextColor="White">
+                <Label.FormattedText>
+                    <FormattedString>
+                        <FormattedString.Spans>
+                            <Span Text="00/00       " x:Name="dia5" FontAttributes="Bold" FontSize="35"/>
+                            <Span Text="00         " x:Name="dia5min" FontSize="35" FontAttributes="Bold"/>
+                            <Span Text="00" x:Name="dia5max" FontSize="35" FontAttributes="Bold"/>
+                        </FormattedString.Spans>
+                    </FormattedString>
+                </Label.FormattedText>
+            </Label>
+            <Label Margin="20,415,0,0" TextColor="White">
+                <Label.FormattedText>
+                    <FormattedString>
+                        <FormattedString.Spans>
+                            <Span Text="00/00       " x:Name="dia6" FontAttributes="Bold" FontSize="35"/>
+                            <Span Text="00         " x:Name="dia6min" FontSize="35" FontAttributes="Bold"/>
+                            <Span Text="00" x:Name="dia6max" FontSize="35" FontAttributes="Bold"/>
+                        </FormattedString.Spans>
+                    </FormattedString>
+                </Label.FormattedText>
+            </Label>
+        </Grid>
+
+        
+    
+
+    </StackLayout>
+
+</ContentPage>
