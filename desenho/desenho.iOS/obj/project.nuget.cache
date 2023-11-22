@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "ARxsm8MmbF5DH6XtNHeGW6gVynztRzmPcjRXY8fhtviV/Ti+nrA+ZGCV+ocZfZ6EITHyN4vUF5dSTvZ5mXSUqA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Pichau\\source\\repos\\desenho\\desenho\\desenho.iOS\\desenho.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Pichau\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\Pichau\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\Pichau\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
+    "C:\\Users\\Pichau\\.nuget\\packages\\xamarin.forms\\5.0.0.2196\\xamarin.forms.5.0.0.2196.nupkg.sha512"
+  ],
+  "logs": []
+}
